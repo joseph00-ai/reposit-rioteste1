@@ -1,6 +1,6 @@
 Faculdade Uniesp
 Curso: Sistemas para Internet
-Disciplina: Tópicos Essenciais em Programação
+Disciplina: Introdução a Programação
 Nome: José M. Ferreira de Araújo
 
 Resposta da Lista de Exercício
@@ -10,4 +10,11 @@ Questão 01
 
 Questão 02
 
-Questão 03
+Questão 04
+
+
+Questão 05
+
+Questão 06
+
+Questão 10
