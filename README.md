@@ -3,4 +3,4 @@ Descreva as principais funções do github
 
 ## Apresentação
 
-## Principais Funcionalinades
+## Principais Funcionalidades
